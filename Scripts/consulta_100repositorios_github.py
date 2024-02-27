@@ -2,7 +2,7 @@ import requests
 import json
 
 headers = {
-    "Authorization": "Bearer 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",  # Substitua pelo seu token real
+    "Authorization": "Bearer xxxx",  # Substitua pelo seu token real
     "Accept": "application/vnd.github.v3+json"
 }
 
