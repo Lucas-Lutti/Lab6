@@ -8,7 +8,7 @@
 ## Integrantes do grupo:
 
 * Lucas Picinin Campos Lutti
-* Nome completo
+* Matheus Fontes Almeida Moreira Silva
 * Nome completo ...
 
 ## Artefatos:
