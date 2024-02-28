@@ -17,14 +17,24 @@ query = """{
           primaryLanguage {
             name
           }
+          pullRequests {
+            totalCount
+          }
+         issues:issues {
+            totalCount
+          }
+          closedIssues: issues (states: CLOSED) {
+            totalCount
+          }
         }
       }
     }
   }
-}"""
+}
+"""
 # GraphQL no Github
 url = 'https://api.github.com/graphql'
-token = 'depois colocar o token aqui quanod der pull'
+token = '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'
 
 headers = {
     'Authorization': f'bearer {token}',
