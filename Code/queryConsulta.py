@@ -34,7 +34,7 @@ query = """{
 """
 # GraphQL no Github
 url = 'https://api.github.com/graphql'
-token = 'colocar o token aqui - gerar um novo'
+token = 'gerar token'
 
 headers = {
     'Authorization': f'bearer {token}',
