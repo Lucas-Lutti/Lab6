@@ -39,7 +39,8 @@ Elabore um documento que apresente (i) uma introdução simples com hipóteses i
 
 * Lucas Picinin Campos Lutti
 * Matheus Fontes Almeida Moreira Silva
-* Nome completo ...
+* Nando Augusto Veloso Tupinambá
+* Erik Guimarães
 
 ## Artefatos:
 
