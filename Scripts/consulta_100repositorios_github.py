@@ -4,7 +4,7 @@ import csv
 from datetime import datetime
 
 headers = {
-    "Authorization": "Bearer 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",  # Substitua SEU_TOKEN_AQUI pelo seu token real
+    "Authorization": "xxxx",  # Substitua SEU_TOKEN_AQUI pelo seu token real
 }
 
 def generate_query(after_cursor=None):
